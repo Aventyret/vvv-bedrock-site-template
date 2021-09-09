@@ -11,7 +11,7 @@
 project-name:
   repo: https://github.com/Aventyret/vvv-bedrock-site-template.git
   hosts:
-    - project-name
+    - project-name.test
 ```
 
 2. Reprovision with `vagrant reload --provision`
