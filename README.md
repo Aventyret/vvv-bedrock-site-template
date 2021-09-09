@@ -1,4 +1,4 @@
-# vvv-bedrock-site-# VVV Bedrock Site Template
+# VVV Bedrock Site Template
 
 ## Requirements
 
