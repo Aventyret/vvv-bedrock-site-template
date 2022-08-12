@@ -1,4 +1,4 @@
-# VVV Bedrock Site Template (soon to be called LOAF [Loaf Offers Advanced Functionality] - A Bedrock Site Template)
+# LOAF [Loaf Offers Advanced Functionality] - VVV Bedrock Site Template
 
 ## Requirements
 
